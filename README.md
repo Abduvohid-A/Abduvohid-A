@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Back-end developer from Uzbekistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khab1bull0&label=Profile%20views&color=0e75b6&style=flat" alt="habibullo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abduvohid-A&label=Profile%20views&color=0e75b6&style=flat" alt="Abduvohid" /> </p>
 
 - 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,   Express Handlebars,  NestJS,  MongoDB,  PostgreSQL,  Sequelize,  API /Rest-API,  Git/Github,  HTML, CSS**
 
@@ -49,7 +49,10 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abduvohid-A&show_icons=true&locale=en" alt="Abduvohid" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abduvohid-A&show_icons=true&locale=en" alt="Abduvohid" /></p>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Abduvohid-A&theme=default&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <!--
 **Abduvohid-A/Abduvohid-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
