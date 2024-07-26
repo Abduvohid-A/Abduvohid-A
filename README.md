@@ -50,9 +50,7 @@
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abduvohid-A&show_icons=true&locale=en" alt="Abduvohid" /></p>
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Abduvohid-A&theme=default&hide_border=true&border_radius=5&card_width=800">
-</p>
+
 
 <!--
 **Abduvohid-A/Abduvohid-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
