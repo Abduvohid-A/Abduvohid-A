@@ -13,10 +13,13 @@
 - 📫 How to reach me **abduvohidabdurahimov1@gamil.com**
 
 <p align="left">
-<h2 align="left">Connect with me:</h2>
-<a href="https://www.linkedin.com/in/abduvohid-abdurahimov-2618732b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="30" width="40" /></a>
-
-<a href="https://t.me/a_abduvoh1d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Socialtelegram-in-alt.svg" alt="yuldoshev__uz" height="30" width="40" /></a>
+  <h2 align="left">Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/abduvohid-abdurahimov-2618732b0/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="30" width="40" />
+  </a>
+  <a href="https://t.me/a_abduvoh1d" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yuldoshev__uz" height="30" width="40" />
+  </a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
